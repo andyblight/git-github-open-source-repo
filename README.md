@@ -8,7 +8,9 @@ This is repo for the Git &amp; GitHub workhop for participents to understand how
 * Clone the forked repo onto your PC.
 * Create a new branch.
 * Fix some of the deliberate typos.
-* Test and document (if applicable). 
+* Commit the changes. 
+* Add a new section and add a couple of lines of text.
+* Commit the changes. 
 * Push the branch to your repo.
 * Go to the repo on GitHub and submit a pull request. 
 * The maintainer of the open source repo will review your change, ask you to fix some things, or, if there is nothing wrong, they will merge it to the default branch. 
