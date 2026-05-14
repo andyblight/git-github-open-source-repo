@@ -1,6 +1,8 @@
-# git-github-open-source-repo
+# Git & GitHub Open Source Repo
 
-This is repo for the Git &amp; GitHub workshop for participants to understand how to contribute to an open source project.
+The aim of this repo is for participants to understand how to contribute to an open source project.
+
+I have also included instructions on [how to configure the repo to behave like an open source repo.](configuring-the-repo.md) if you want to read them later.
 
 ## Instructions
 
