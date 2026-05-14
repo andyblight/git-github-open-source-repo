@@ -17,7 +17,7 @@ I have also included instructions on [how to configure the repo to behave like a
 1. Commit the changes.
 1. Push the branch to your repo.
 
-**Stop here and tell Andy that you are ready to create your PR. **
+**Stop here and tell Andy that you are ready to create your PR.**
 
 ## Acknowledgements
 
