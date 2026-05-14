@@ -8,4 +8,4 @@ So please fix these typos!
 
 ## Add text to this new section
 
-I was most definitely here - Will.
+All fixed up :D
