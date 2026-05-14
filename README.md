@@ -13,7 +13,7 @@ I have also included instructions on [how to configure the repo to behave like a
 1. Create a new branch (or switch to the the one from above if you created it).
 1. Fix the deliberate typos in `fix-me.md`.
 1. Commit the changes.
-1. Add some more text to the and add a couple of lines of text with your name in it somewhere.
+1. Add a couple of lines of text to the new section, including your name somewhere.
 1. Commit the changes.
 1. Push the branch to your repo.
 
