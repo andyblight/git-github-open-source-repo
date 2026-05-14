@@ -10,7 +10,7 @@ I have also included instructions on [how to configure the repo to behave like a
 1. Clone the forked repo onto your PC.
 1. Take a look at the files in this repo.  You'll notice the file [`CONTRIBUTING.md`](CONTRIBUTING.md).  Take a look at the contents to see what a real open source project might require of you. You can ignore all of this stuff for this exercise.
 1. **THIS IS IMPORTANT: Do not push any changes to the main branch.**  Whilst GitHub will convert any changes you make into a PR, it becomes impossible to synchronise with the maintainer's repo.  This can be a pain.
-1. Create a new branch (or switch to the the one from above if you created it).
+1. Create a new branch (or switch to the one from above if you created it).
 1. Fix the deliberate typos in `fix-me.md`.
 1. Commit the changes.
 1. Add a couple of lines of text to the new section, including your name somewhere.
