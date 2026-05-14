@@ -1,8 +1,8 @@
 # Please fix me
 
-This section of the fork has a lot of typos that need to be fixed.
+This section of work has a lot of typos that need to be fixed.
 
-The key point here is that my typing might be fast but is not perfect with out the use of a spell checker!
+The key point here is that my typing might be fast but it is not perfect without the use of a spell checker!
 
 So please fix these typos!
 
